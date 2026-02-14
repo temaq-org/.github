@@ -21,11 +21,12 @@ Tema_Q is designed to generate more open-ended and useful responses to prompts t
 
 For prompts for models other than Tema_Q, see the GitHub repository. You can also get a dedicated web UI.
 
-- [Tema_Q Prompts](https://github.com/kawa3das/Tema_Q-Prompts/tree/main)
+- [SturmAngriff](https://github.com/temaq-org/SturmAngriff)
+- [Tema_Q Prompts](https://github.com/temaq-org/Tema_Q-Prompts/tree/main)
 
 If you have any questions about the development team, please contact Kawasumi on X.
 
 - [@syoukouaikouka](https://x.com/syoukouaikouka)
 - [@AI_kawasumi](https://x.com/AI_kawasumi)
 
-<img align="right" src="https://huggingface.co/spaces/temaq-org/README/resolve/main/Tema_Q.png" width="250">
+<img align="right" src="https://github.com/temaq-org/.github/blob/c3cc5d18852d64ee9f8540815ff3c6e4ec3976d0/Tema_Q.png" width="250">
